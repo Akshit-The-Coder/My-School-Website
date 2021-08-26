@@ -1,0 +1,16 @@
+.announcement{
+    background: blue;
+}
+#school{
+    width: 1800px;
+    height: 720px;
+}
+.line{
+    height: 6px;
+    background-color: black;
+    width: 200px;
+    margin: 8px auto;
+}
+#contacthead{
+    margin-right: 600px;
+}
